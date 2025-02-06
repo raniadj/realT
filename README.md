@@ -19,7 +19,6 @@ Je cherche simplement à decouvrir le produit Realt et comprendre l'ecosysteme e
 ## Déploiement
 Les étapes pour installer et exécuter le projet :
 
-   ```
 
 ## Auteurs
 - [ Djelaili abdelrani ] 
