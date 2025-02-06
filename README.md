@@ -1,42 +1,28 @@
-*_local*
-*_local.*
+# Description du Projet
 
-# Ignorer les fichiers de configuration et d'environnement Python
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-*.env
-.env
+## Objectif
+Découvrir l'api Realt , le YAM et le RMM 
 
-# Ignorer les fichiers de logs
-logs/
-*.log
+## Présentation
+Je cherche simplement à decouvrir le produit Realt et comprendre l'ecosysteme en explorant les api de la communauté Realt 
 
-# Ignorer les fichiers des environnements virtuels
-venv/
-.env/
-.venv/
-pip-log.txt
-pip-delete-this-directory.txt
+## Fonctionnalités principales
+- Detection d'une nouvelle offre sur la market palce 
+- Creation des whitelists automatiques 
+- Detection d'opportunités sur le YAM 
 
-# Ignorer les fichiers de dépendances
-*.egg-info/
-*.egg
-dist/
-build/
-wheelhouse/
+## Technologies utilisées
+- Langage(s) de programmation : python
+- Frameworks et bibliothèques : web3
 
-# Ignorer les fichiers de tests temporaires
-.coverage
-.tox/
-.nox/
-pytest_cache/
 
-# Ignorer les fichiers de debug et IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-.DS_Store
-Thumbs.db
+## Déploiement
+Les étapes pour installer et exécuter le projet :
+
+   ```
+
+## Auteurs
+- [ Djelaili abdelrani ] 
+
+## Licence
+
